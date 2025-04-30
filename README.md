@@ -12,4 +12,7 @@ El archivo adjunto contiene los 5 ejercicios que se debían realizar.
 
 ## 🚀 Único integrante
 Alejandro Valencia Ossa
+---
 
+
+![Texto alternativo](POOtarea2/persona.png)
