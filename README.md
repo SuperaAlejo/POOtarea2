@@ -15,7 +15,7 @@ Alejandro Valencia Ossa
 
 ---
 
-## 🧠 Diagramas de clase
+##  📷 Diagramas de clase
 
 ## Clase Pesona
 ![Persona](persona.png)
