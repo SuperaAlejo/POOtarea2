@@ -6,7 +6,7 @@ El archivo adjunto contiene los 5 ejercicios que se debían realizar.
 
 ## 🧠 Contenido
 
-- [`main.py`](./main.py): Archivo principal que contiene los ejercicios.
+- [`tarea2.ipynb`](./main.py): Archivo principal que contiene los ejercicios.
 
 ---
 
