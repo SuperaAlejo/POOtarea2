@@ -12,7 +12,22 @@ El archivo adjunto contiene los 5 ejercicios que se debían realizar.
 
 ## 🚀 Único integrante
 Alejandro Valencia Ossa
+
 ---
 
+## 🧠 Diagramas de clase
 
-![Texto alternativo](POOtarea2/persona.png)
+## Clase Pesona
+![Persona](persona.png)
+---
+## Clase Planeta
+![Texto alternativo](planeta.png)
+---
+## Clase Automómovil
+![Texto alternativo](automovil.png)
+---
+## Clases de las figuras
+![Texto alternativo](figuras.png)
+---
+## Clase CuentaBancaria
+![Texto alternativo](cuenta.png)
